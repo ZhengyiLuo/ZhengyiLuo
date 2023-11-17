@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Zhengyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengyiluo)](https://github.com/zhengyiluo/github-readme-stats)
 <!--
 **ZhengyiLuo/ZhengyiLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
